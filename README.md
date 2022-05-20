@@ -6,7 +6,7 @@ This directory is a brief example of a [React](https://reactjs.org/) app with [S
 
 ## Deploy Your Own
 
-Deploy your own React project, along with Serverless Functions, with Vercel.
+Deploy your own React project, along with Serverless Functions, with Vercel. UPDATED
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/create-react-app-functions)
 
